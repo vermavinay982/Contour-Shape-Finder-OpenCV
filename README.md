@@ -8,7 +8,7 @@
 * Grabbing the contours from the image 
 * Using moments to find the centroid.
 * Adding text and drawing contours in the image
-
+![alt text](https://github.com/vermavinay982/Contour-Shape-Finder-OpenCV/blob/master/assets/contour.png)
 
 ## Shape_of_Contour.ipynb
 * Pre-Processing the image
@@ -19,3 +19,4 @@
   - if the aspect ratio of bounding box is 1 - then square else rectangle
 * Using moments to find the centroid.
 * Adding text and drawing contours in the image
+![alt text](https://github.com/vermavinay982/Contour-Shape-Finder-OpenCV/blob/master/assets/shapes.png)
